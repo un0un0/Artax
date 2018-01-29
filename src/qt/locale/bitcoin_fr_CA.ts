@@ -1816,8 +1816,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Artax address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Artax (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Artax address (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</source>
+        <translation>Entrer une adresse Artax (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1949,7 +1949,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to send the payment to (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1990,8 +1990,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Artax address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Artax (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Artax address (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</source>
+        <translation>Entrer une adresse Artax (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</translation>
     </message>
 </context>
 <context>
@@ -2014,8 +2014,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Artax (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</source>
+        <translation>Entrer une adresse Artax (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2078,8 +2078,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>L&apos;adresse avec laquelle le message à été signé (ex: H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</source>
+        <translation>L&apos;adresse avec laquelle le message à été signé (ex: AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2094,8 +2094,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Artax address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Artax (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Artax address (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</source>
+        <translation>Entrer une adresse Artax (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</translation>
     </message>
     <message>
         <location line="-2"/>

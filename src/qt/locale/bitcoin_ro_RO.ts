@@ -1816,8 +1816,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Artax address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Artax(ex:H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Artax address (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</source>
+        <translation>Introduceți o adresă Artax(ex:AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1949,7 +1949,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to send the payment to (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1990,8 +1990,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Artax address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Artax(ex:H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Artax address (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</source>
+        <translation>Introduceți o adresă Artax(ex:AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</translation>
     </message>
 </context>
 <context>
@@ -2014,8 +2014,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa cu care semnati mesajul(ex. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</source>
+        <translation>Adresa cu care semnati mesajul(ex. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2078,8 +2078,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa cu care a fost semnat mesajul(ex. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</source>
+        <translation>Adresa cu care a fost semnat mesajul(ex. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2094,8 +2094,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Artax address (e.g. H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Artax(ex:H8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Artax address (e.g. AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</source>
+        <translation>Introduceți o adresă Artax(ex:AU83YtF6q2FUMuceDcV3xpRRd5rHcb6HBH)</translation>
     </message>
     <message>
         <location line="-2"/>
