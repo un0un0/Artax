@@ -4,6 +4,7 @@
                 /    |    \    |   \ |    |/    |    \/     \ 
                 \____|____/____|___/ |____|\____|____/___/\__\
                                      
+V1.0.0.2 - Artax Masternode
 
 Artax is a Powerful Node-Based PoW + PoS-based cryptocurrency.
 
@@ -37,19 +38,11 @@ BUILD LINUX
 
 2) cd Artax/src
 
-3) mkdir obj/crypto
+3) sudo make -f makefile.unix USE_UPNP=    # Headless Artax Node
 
-4) chmod +x leveldb/build_detect_platform
+4) strip artaxd
 
-5) cd leveldb && make libleveldb.a libmemenv.a
-
-6) cd ..
-
-7) sudo make -f makefile.unix USE_UPNP=    # Headless Artax Node
-
-8) strip artaxd
-
-9) sudo cp artaxd /usr/local/bin
+5) sudo cp artaxd /usr/local/bin
 
 
 
