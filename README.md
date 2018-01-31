@@ -83,11 +83,6 @@ BUILD WINDOWS
 14) Type "mingw32-make" and hit enter to start building. When it's finished you can find your .exe in the release folder
 
 
-Masternode Setup guide here:
-Linux - http://artax.one/dl/AM.pdf
-Windows - http://artax.one/dl/WAM.pdf
-
-
 For more information please visit the website:
 
 http://artax.one
